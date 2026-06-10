@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-     ██╗███████╗███████╗███████╗    ███╗   ███╗██╗   ██╗████████╗███████╗██████╗ ██╗   ██╗
-     ██║██╔════╝██╔════╝██╔════╝    ████╗ ████║██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║   ██║
-     ██║█████╗  █████╗  █████╗      ██╔████╔██║██║   ██║   ██║   █████╗  ██████╔╝██║   ██║
-██   ██║██╔══╝  ██╔══╝  ██╔══╝      ██║╚██╔╝██║██║   ██║   ██║   ██╔══╝  ██╔══██╗██║   ██║
-╚█████╔╝███████╗██║     ██║         ██║ ╚═╝ ██║╚██████╔╝   ██║   ███████╗██║  ██║╚██████╔╝
- ╚════╝ ╚══════╝╚═╝     ╚═╝         ╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Jeff+Muteru+%F0%9F%91%8B;Senior+Software+Engineer;AI+%26+Full-Stack+Engineer;Building+at+Scale+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### Senior Software Engineer · AI Engineer ·Consultant· Nairobi, Kenya 🇰🇪
 
