@@ -101,7 +101,7 @@ I'm open to **Senior Engineering /Tech Lead roles**, **AI/ML consulting**, and *
 
 ---
 
-*Nairobi-based · Open to remote · Available for consulting*
+*Nairobi based · Open to remote · Available for consulting*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jmuteru&color=7c3aed&style=flat-square&label=Profile+Views)
 
