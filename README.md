@@ -80,17 +80,7 @@ const jeff = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmuteru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e2e8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmuteru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jmuteru&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=e2e8f0)
-
-</div>
 
 ---
 
@@ -115,7 +105,6 @@ I'm open to **Senior Engineering /Tech Lead roles**, **AI/ML consulting**, and *
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/📧_jeffmuteru@gmail.com-EA4335?style=for-the-badge)](mailto:jeffmuteru@gmail.com)
-[![Call Me](https://img.shields.io/badge/📞_+254_701_150_607-25D366?style=for-the-badge)](tel:+254701150607)
 
 ---
 
