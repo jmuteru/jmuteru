@@ -93,7 +93,7 @@ const jeff = {
 
 I'm open to **Senior Engineering /Tech Lead roles**, **AI/ML consulting**, and **Payment Infrastructure** projects.
 
-> *"The best systems are invisible — they just work, at scale, every time."*
+> *"The best systems are invisible.They just work, at scale, every time."*
 
 <div align="center">
 
