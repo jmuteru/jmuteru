@@ -6,7 +6,6 @@
 
 *7+ years building scalable full-stack systems and payment platforms.*  
 *Currently exploring the frontier of LLMs, RAG, and agentic AI workflows.*  
-*I write clean TypeScript, ruthlessly optimise APIs, and ship things that handle millions of transactions without flinching.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1a2e?style=for-the-badge)](https://jmuteru.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffmuteru)
