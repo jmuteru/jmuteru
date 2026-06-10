@@ -28,7 +28,7 @@
 
 ```typescript
 const jeff = {
-  role:       "Senior Software Engineer | AI Engineer",
+  roles:       ["Technical Lead","Senior Software Engineer" ,"AI Engineer",]
   location:   "Nairobi, Kenya 🇰🇪",
   experience: "7+ years",
   currentFocus: ["LLMs & RAG Architectures", "Agentic AI Workflows", "MCP Servers & Clients"],
